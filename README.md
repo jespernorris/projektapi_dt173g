@@ -7,7 +7,7 @@ I detta fall är syftet att presentera och kunna hantera en portfolio.
 - **/config/classes**
   - **[namn].class.php:** Det finns tre stycken filer med tre olika klasser, dessa används för att inom databasen hämta, lagra, ändra samt ta bort.
 
-- **/config
+- **/config**
   - **config.php:** Denna fil innehåller autoload för snabbare inläsning av klasser.
   - **Database.php:** Denna fil innehåller en klass för att ansluta till databasen.
 
