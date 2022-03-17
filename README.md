@@ -19,3 +19,6 @@ I detta fall är syftet att presentera och kunna hantera en portfolio.
 - POST för att skicka till databasen
 - PUT för att uppdatera angivet ID i databasen
 - DELETE för att ta bort angivet ID i databasen
+
+## För att klona detta repo skriver du följande i din terminal
+`git clone https://github.com/jespernorris/projektapi_dt173g.git`
